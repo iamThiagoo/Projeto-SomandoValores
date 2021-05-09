@@ -15,6 +15,7 @@
 ## Fato Interessante
 
 #### Conforme na apresentação feita abaixo, aproveitei o tempo livre e deixei o projeto responsivo para mobile e para telas grandes.
+#### PS: Caso se interesse pelo software que usei para ver a responsividade entre os dispositivos, ele se chama ResponsivelyApp.
 
 ![Responsividade](https://user-images.githubusercontent.com/69599810/117587626-4f5e7a80-b0f5-11eb-8db8-78ecab4c7e7e.gif)
 
